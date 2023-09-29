@@ -1,0 +1,12 @@
+h1{
+color:black;
+}
+h2{
+    color: rgb(58, 58, 112);
+}
+body{
+    background-color: rgb(165, 206, 147);
+}
+nav li{
+    list-style: none;
+}
